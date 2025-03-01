@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Science Engineering Student @ VIT Vellore |<br>Innovator | Aspiring Entrepreneur<br>Core Committee Member @ CodeChef-VIT
+Computer Science Engineering Student @ VIT Vellore |<br>Innovator | Aspiring Entrepreneur
 
 
 ## 🌐 Socials:
