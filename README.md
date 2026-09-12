@@ -1,5 +1,7 @@
 # Atharva Sharma  
-Computer Science Engineering @ VIT Vellore
+Computer Science Engineering @ VIT
+
+Vice-Chairperson @ [CodeChef-VIT](https://github.com/CodeChefVIT/)  
 
 Backend & Systems Engineer focused on building scalable, low-latency, cloud-native applications.  
 Interested in distributed systems, high-performance infrastructure, and quant-driven systems.  
